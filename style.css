@@ -1,0 +1,28 @@
+* {
+  background-color: lightcoral;
+  color: darkslateblue;
+}
+
+h1 {
+  font-size: 64px;
+}
+
+li {
+  font-size: 32px;
+}
+
+input {
+  height: 24px;
+  margin-right: 16px;
+  border-radius: 16px;
+  padding: 4px 2px;
+}
+
+.button--delete, .button--submit {
+  border: 1px solid darkmagenta;
+  background-color: darkmagenta;
+  color: lightcoral;
+  border-radius: 16px;
+  padding: 8px 16px;
+  margin-left: 16px;
+}
